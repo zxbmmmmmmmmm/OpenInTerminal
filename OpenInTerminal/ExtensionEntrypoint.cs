@@ -15,9 +15,9 @@ namespace OpenInTerminal
             Metadata = new(
                     id: "OpenInTerminal.d552e077-bf83-45a2-a547-d4deb485a3ed",
                     version: this.ExtensionAssemblyVersion,
-                    publisherName: "Publisher name",
+                    publisherName: "Betta_Fish",
                     displayName: "OpenInTerminal",
-                    description: "Extension description"),
+                    description: "Open in Windows Terminal"),
         };
 
         /// <inheritdoc />
